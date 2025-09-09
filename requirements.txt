@@ -1,0 +1,14 @@
+streamlit
+ultralytics
+supervision
+roboflow
+opencv-python
+numpy
+pandas
+albumentations
+matplotlib
+pyproj
+fiona
+shapely
+geojson
+selenium
