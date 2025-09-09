@@ -39,3 +39,6 @@ This project is divided into several key stages, each detailed in the Jupyter no
 
 [cite_start]For a detailed explanation of the project, please see the full internship report in the `report/` directory.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
